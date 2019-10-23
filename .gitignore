@@ -1,0 +1,15 @@
+
+# Compiled maps
+*.bsp
+
+# Portal files
+*.prt
+
+# VMF's twin
+*.vmx
+
+# Compilation logs
+*.log
+
+# Those leak line files
+*.lin
