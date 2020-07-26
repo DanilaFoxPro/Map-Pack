@@ -1,0 +1,14 @@
+{
+	"title"		: "Map Pack",
+	"type"		: "map",
+	"tags"		: [ "fun" ]
+	"ignore"	: [
+		"*.log",
+		"*.vmf",
+		"*.prt",
+		"*.lin",
+		".gitattributes",
+		".gitignore",
+		"\.git"
+	]
+}

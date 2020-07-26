@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	$basetexture gm_chase_pt1/loading
+	$surfaceprop paper
+}
