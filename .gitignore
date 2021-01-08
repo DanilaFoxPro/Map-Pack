@@ -5,6 +5,9 @@
 # Portal files
 *.prt
 
+# Node graphs
+*.ain
+
 # VMF's twin
 *.vmx
 
